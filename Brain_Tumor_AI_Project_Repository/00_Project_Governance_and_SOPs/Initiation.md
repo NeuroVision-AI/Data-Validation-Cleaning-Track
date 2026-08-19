@@ -7,5 +7,7 @@ The single source of truth for track rules, charters, and meeting logs. No work 
 
 
 Team Lead: Elijah Adeniji
-Date signed:  8/6/2026 21:16:28
-Last Updated: 8/19/2026 15:12:46
+
+- Date signed:  8/6/2026 21:16:28
+
+- Last Updated: 8/19/2026 15:12:46
